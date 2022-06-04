@@ -6,3 +6,6 @@ patch:
   'npm:ms:20151024':
     - humanize-ms > ms:
         patched: '2022-05-19T19:15:54.500Z'
+  SNYK-JS-LODASH-567746:
+    - mongoose > async > lodash:
+        patched: '2022-05-19T20:29:24.744Z'
